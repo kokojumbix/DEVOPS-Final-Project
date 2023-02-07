@@ -25,12 +25,18 @@ Many artists, videoeditors uses cloud platforms (Google drive, DropBox) to save 
 Project structure:
 
 DB/Storage (RDS, EC2 instance)
-||  
 ||
+
 ||
+
+||
+
 || Web application
+
 |  
+
 |
+
 |  Telegram Bot
 
 Project was divided into 4 main tasks:
